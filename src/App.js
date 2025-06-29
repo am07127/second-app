@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>This is my first commit</p>
         <p>This is my second commit</p>
+        <p>This is my third commit</p>
         <a
           className="App-link"
           href="https://reactjs.org"
