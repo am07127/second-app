@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import Fruit from './components/fruit';
+import Orange from './components/orange';
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
         <p>This is my first commit</p>
         <p>This is my second commit</p>
         <p>This is my third commit</p>
+        <Fruit />
         <a
           className="App-link"
           href="https://reactjs.org"
